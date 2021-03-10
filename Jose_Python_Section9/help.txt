@@ -1,0 +1,1 @@
+Main script and sub script need to go in a file structure see MainPackage and Sub_Package with a empty file __inti__.py in each

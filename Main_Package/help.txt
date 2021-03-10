@@ -1,0 +1,1 @@
+delete the text in __init__.py
